@@ -239,6 +239,8 @@ Capture Wireshark confirmant la transmission des flux RTP après correction.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%" />
-</div>
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Licence
+
+Documentation et contenus sous [licence CC BY 4.0](./LICENSE) · © 2026 Emmanuel Elisé Koné. Tu peux les réutiliser et les adapter, à condition de me citer.
