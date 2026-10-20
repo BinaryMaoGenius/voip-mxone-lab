@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=VoIP%20MX-ONE%20Lab&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=D%C3%A9ploiement%20Mitel%20MX-ONE%20IPBX%20%E2%80%94%20SIP%20%7C%20Virtualisation%20%7C%20D%C3%A9pannage&descAlignY=60&descSize=14&descColor=cccccc" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="VoIP MX-ONE Lab" width="100%">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Mitel_MX--ONE-IPBX-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware_Workstation-Pro-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protocole-SIP_UDP%2F5060-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-SUSE_Enterprise-73BA25?style=for-the-badge&logo=suse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statut-Terminé-4ADE80?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mitel_MX--ONE-IPBX-1BA0D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/VMware_Workstation-Pro-607078?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protocole-SIP_UDP%2F5060-4A5D9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-SUSE_Enterprise-73BA25?style=flat-square&logo=suse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statut-Terminé-4ADE80?style=flat-square" />
 </div>
 
 <br/>
